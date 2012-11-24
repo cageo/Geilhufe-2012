@@ -7,4 +7,5 @@ by M. Geilhufe (1) , D.B. Percival (2) , H.L. Stern (2)
 
 (2) University of Washington, Applied Physics Laboratory, Box 355640, Seattle, WA 98105, USA
 
+----------------------------------------------------------------------------------------------
 For more information on how to use the source code files, please read 'readme.pdf'
